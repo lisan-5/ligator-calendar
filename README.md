@@ -50,23 +50,6 @@ npm run dev
 npm run build
 ```
 
-## Project Structure
-
-```
-ligator-calendar/
-├── src/
-│   ├── components/         # React components
-│   ├── context/           # React context providers
-│   ├── hooks/             # Custom React hooks
-│   ├── types/             # TypeScript type definitions
-│   ├── utils/             # Utility functions
-│   ├── App.tsx           # Main application component
-│   └── main.tsx          # Application entry point
-├── public/               # Static assets
-├── index.html           # HTML template
-└── package.json         # Project dependencies and scripts
-```
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
