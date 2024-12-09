@@ -2,8 +2,6 @@
 
 A beautiful and interactive web application that converts between Gregorian and Ethiopian (Ge'ez) calendars. Built with React, TypeScript, and Framer Motion.
 
-![Ligator Calendar](https://github.com/lisan-5/ligator-calendar/raw/main/preview.png)
-
 ## Features
 
 - Convert between Gregorian and Ethiopian calendars
